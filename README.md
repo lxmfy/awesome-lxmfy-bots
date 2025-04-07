@@ -9,6 +9,7 @@ All the bots you could want using LXMFy Bot Framework!
 ## Communication
 
 [lxmfy js8call-bot](https://github.com/lxmfy/js8call-bot)
+
 [lxmfy news-bot](https://github.com/lxmfy/news-bot)
 
 ## AI
@@ -26,7 +27,9 @@ All the bots you could want using LXMFy Bot Framework!
 ## Basic
 
 [lxmfy note bot template](https://github.com/lxmfy/LXMFy/blob/main/lxmfy/templates/note_bot.py)
+
 [lxmfy reminder bot template](https://github.com/lxmfy/LXMFy/blob/main/lxmfy/templates/reminder_bot.py)
+
 [lxmfy echo bot template](https://github.com/lxmfy/LXMFy/blob/main/lxmfy/templates/echo_bot.py)
 
 
