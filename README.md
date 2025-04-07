@@ -18,3 +18,13 @@ All the bots you could want using LXMFy Bot Framework!
 ## Memes
 
 - [lxmfy meme bot template](https://github.com/lxmfy/LXMFy/blob/main/lxmfy/templates/meme_bot.py) 
+
+## Basic
+
+- [lxmfy basic bot template](https://github.com/lxmfy/LXMFy/blob/main/lxmfy/templates/basic_bot.py)
+- [lxmfy note bot template](https://github.com/lxmfy/LXMFy/blob/main/lxmfy/templates/note_bot.py)
+- [lxmfy reminder bot template](https://github.com/lxmfy/LXMFy/blob/main/lxmfy/templates/reminder_bot.py)
+- [lxmfy echo bot template](https://github.com/lxmfy/LXMFy/blob/main/lxmfy/templates/echo_bot.py)
+
+
+
