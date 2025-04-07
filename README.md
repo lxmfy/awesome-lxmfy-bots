@@ -17,7 +17,11 @@ All the bots you could want using LXMFy Bot Framework!
 
 ## Memes
 
-- [lxmfy meme bot template](https://github.com/lxmfy/LXMFy/blob/main/lxmfy/templates/meme_bot.py) 
+- [lxmfy meme bot template](https://github.com/lxmfy/LXMFy/blob/main/lxmfy/templates/meme_bot.py)
+
+## Mapping
+
+[lxmfy map-bot](https://github.com/lxmfy/map-bot)
 
 ## Basic
 
