@@ -4,33 +4,25 @@ All the bots you could want using LXMFy Bot Framework!
 
 ## Weather
 
-[lxmfy weather-bot](https://github.com/lxmfy/weather-bot)
+[weather-bot](https://github.com/lxmfy/weather-bot) - by LXMFy
 
 ## Communication
 
-[lxmfy js8call-bot](https://github.com/lxmfy/js8call-bot)
+[js8call-bot](https://github.com/lxmfy/js8call-bot) - by LXMFy
 
-[lxmfy news-bot](https://github.com/lxmfy/news-bot)
+[news-bot](https://github.com/lxmfy/news-bot) - by LXMFy
+
+## Home Assistant 
+
+[lxmf-ha-conversations](https://github.com/metrafonic/lxmf-ha-conversations) - by Metrafonic
 
 ## AI
 
-[lxmfy ollama-bot](https://github.com/lxmfy/ollama-bot)
-
-## Memes
-
-[lxmfy meme bot template](https://github.com/lxmfy/LXMFy/blob/main/lxmfy/templates/meme_bot.py)
+[ollama-bot](https://github.com/lxmfy/ollama-bot) - by LXMFy
 
 ## Mapping
 
-[lxmfy map-bot](https://github.com/lxmfy/map-bot)
-
-## Basic
-
-[lxmfy note bot template](https://github.com/lxmfy/LXMFy/blob/main/lxmfy/templates/note_bot.py)
-
-[lxmfy reminder bot template](https://github.com/lxmfy/LXMFy/blob/main/lxmfy/templates/reminder_bot.py)
-
-[lxmfy echo bot template](https://github.com/lxmfy/LXMFy/blob/main/lxmfy/templates/echo_bot.py)
+[lxmfy map-bot](https://github.com/lxmfy/map-bot) - by LXMFy
 
 
 
